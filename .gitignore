@@ -1,0 +1,16 @@
+# Local install trees if someone runs the script inside the clone
+osint/
+tools/
+venvs/
+bin/
+output/
+logs/
+*.log
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.pyc
+.venv/
+node_modules/
